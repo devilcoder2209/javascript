@@ -2,7 +2,7 @@ console.log('Hey this is my first piece of JS code!!! YAY')
 
 console.log(12490239043902)
 
-console.log({ name: "Yutika" })
+console.log({ name: "Saumyadeep" })
 
 console.log(true)
 console.log(false)
